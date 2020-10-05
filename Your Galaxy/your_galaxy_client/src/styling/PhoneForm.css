@@ -1,0 +1,50 @@
+/* h1 {
+  /* font-family: 'ITC Avant Garde Gothic Demi Bold'; */
+.yourGalaxy {
+  font-family: sans-serif;
+}
+.form-section {
+  margin-top: 100px;
+  margin-left: 510px;
+  width: 100%;
+  padding: 18px 5px 5px 5px;
+}
+.form-section input {
+  border: none;
+  outline: none;
+  background: none;
+  width: 460px;
+  font-size: 18px;
+  color: #555;
+  padding: 15px 20px 15px 20px;
+}
+textarea {
+  border: none;
+  font-size: 18px;
+  padding: 15px 20px 15px 20px;
+}
+#phoneForm-title, #phoneForm-pros, #phoneForm-cons {
+  margin-bottom: 5px;
+  border-radius: 25px;
+  box-shadow: inset 8px 8px 8px #cbced1,
+              inset -8px -8px 8px #ffffff;
+}
+.submit-phone {
+  color: white;
+  background-color: #12279e;
+  height: 50px;
+  padding: 10px 10px;
+  margin-top: 30px;
+  margin-left: 50px;
+  width: 400px;
+  border-style: groove;
+  cursor: pointer;
+  border-radius: 30px;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+  box-shadow: 3px 3px 8px #b1b1b1,
+             -3px -3px 8px #ffffff;
+  transition: 0.3s;
+}
