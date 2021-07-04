@@ -1,9 +1,11 @@
 import React from 'react';
+import '../../styling/navbar.css';
 
 const NavBar = () => {
 
   return (
-    <h1> Hello World </h1>
+    <div className='nav-bar'>
+    </div>
   )
 
 }
